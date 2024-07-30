@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @RandomDoc
+- 👀 I’m interested in ...Python , building real life projects that would make a difference to the world or at least somebody's world!
+- 🌱 I’m currently learning ...Backend developement 
+- 💞️ I’m looking to collaborate on ...Backend development projects 
+- 📫 How to reach me ...physicalgamer99@gmail.com
+- 😄 Pronouns: ...He/Him
+- ⚡ Fun fact: ...Yes im a medical student!
